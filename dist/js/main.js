@@ -40065,7 +40065,7 @@ const App = () => {
 const Button = ({ onClick }) => {
     return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(
         'button',
-        { onClick: onClick },
+        { onClick: onClick, style: 'background-color:green;' },
         children
     );
 };

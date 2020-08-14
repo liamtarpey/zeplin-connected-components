@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        {
+            "name": "@zeplin/cli-connect-react-plugin"
+        }
+    ],
+    "projects": [],
+    "styleguides": [
+        "5f354d1fa990ae7f05f9fa79"
+    ],
+    "components": [
+        {
+            "path": "src/components/Button.jsx",
+            "zeplinNames": [
+                "Button/Exit"
+            ]
+        }
+    ]
+}
